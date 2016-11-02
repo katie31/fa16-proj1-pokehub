@@ -8,7 +8,7 @@ Each type of Pokemon with its attributes are stored in out database and each tim
 The line directs the site to the capture method in the Pokemon controller. The line “capture_path(id: @pokemon)” makes sure that the correct Pokemon is being captured 
 
 # Question 3: What would you name your own Pokemon?
-I would name my own Pokemon 
+I would name my own Pokemon Crymander.
 
 # Question 4: What did you pass into the redirect_to? If it is a path, what did that path need? If it is not a path, why is it okay not to have a path here?
 I passed in a controller, an action and an id argument. Since the id changes depending on what trainer it is, there is no set path to be redirected to.
